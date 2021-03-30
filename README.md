@@ -59,4 +59,4 @@ The objective of this project is to do some initial tests with opencv.
 
 * Images and videos: [pexels](https://www.pexels.com/)
 * Reference: [Murtaza's workshop](https://www.youtube.com/watch?v=WQeoO7MI0Bs)
-* Requirements: [file](venv/requirements.txt)
+* Requirements: [file](requirements.txt)
